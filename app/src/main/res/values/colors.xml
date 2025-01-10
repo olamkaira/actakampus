@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand color -->
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    
+    <!-- Accent color -->
+    <color name="accent">#FF4081</color>
+    <color name="accent_dark">#F50057</color>
+    <color name="accent_light">#FF80AB</color>
+    
+    <!-- Neutral colors -->
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    
+    <!-- Text colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+    
+    <!-- Category colors -->
+    <color name="category_academic">#2196F3</color>
+    <color name="category_social">#4CAF50</color>
+    <color name="category_sports">#FF9800</color>
+    <color name="category_culture">#9C27B0</color>
+    <color name="category_science">#00BCD4</color>
+    <color name="category_tech">#607D8B</color>
+    
+    <!-- Other colors -->
+    <color name="divider">#EEEEEE</color>
+    <color name="ripple">#33000000</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="category_event">#FF4081</color>
+    <color name="category_news">#2196F3</color>
+    <color name="category_announcement">#4CAF50</color>
+</resources>
